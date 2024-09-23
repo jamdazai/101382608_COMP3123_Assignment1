@@ -1,0 +1,28 @@
+{
+  "name": "comp3123_assignment1",
+  "version": "1.0.0",
+  "description": "First assignment for my Full Stack Development class.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "module",
+    "nodejs"
+  ],
+  "author": "Jam Furaque",
+  "license": "ISC",
+  "dependencies": {
+    "argon2": "^0.41.1",
+    "bcrypt": "^5.1.1",
+    "bcryptjs": "^2.4.3",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "express-validator": "^7.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.9.0",
+    "mongoose": "^8.6.3"
+  }
+}
